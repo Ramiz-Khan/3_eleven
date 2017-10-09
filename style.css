@@ -12,7 +12,7 @@ h1 {
 }
 
 h2 {
-	color: #454545;
+	color: #222;
 	font-family: 'Roboto Slab', serif;
 
 }
@@ -37,17 +37,17 @@ footer {
 }
 
 a {
-	margin-top: 
+	margin-top: 20px; 
 }
 
 .social-btn {
 	color: white;
-	margin-top: 5px;
+
 }
 
 .navbar {
 	margin: 0px;
-		min-height: 90px;
+	min-height: 90px;
 
 }
 
@@ -70,7 +70,7 @@ a {
 }
 
 #guts {
-	background: #454545;
+	background: #222;
 	opacity: 20%;
 	min-height: 80px;
 	text-align: center;
@@ -84,7 +84,9 @@ a {
 
 #header-logo {
 	margin-left: 20px;
-	height: 50px;
+	height: 60px;
+	position: absolute;
+	bottom: 15px;
 }
 
 #jumbo-logo {
