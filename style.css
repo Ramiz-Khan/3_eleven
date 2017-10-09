@@ -38,6 +38,7 @@ footer {
 
 a {
 	margin-top: 20px; 
+	margin-right: 20px;
 }
 
 .social-btn {
@@ -84,9 +85,10 @@ a {
 
 #header-logo {
 	margin-left: 20px;
-	height: 60px;
 	position: absolute;
-	bottom: 15px;
+	bottom: 1px;
+	height: 60px;
+
 }
 
 #jumbo-logo {
