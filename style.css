@@ -12,7 +12,7 @@ h1 {
 }
 
 h2 {
-	color: #f3f3f3;
+	color: #454545;
 	font-family: 'Roboto Slab', serif;
 
 }
@@ -20,6 +20,10 @@ h2 {
 h3{
 	font-size: 35px;
 	font-family: 'Dosis', sans-serif;
+}
+
+h6 {
+	font-size: 20px;
 }
 
 p {
@@ -33,7 +37,7 @@ footer {
 }
 
 a {
-	margin-top: 20px;
+	margin-top: 
 }
 
 .social-btn {
@@ -48,7 +52,7 @@ a {
 }
 
 .jumbotron {
-	background: #21d192;
+	background: transparent;
 	min-height: 300px;
 	text-align: center;
 }
@@ -74,7 +78,7 @@ a {
 
 #jumbo-container {
 	margin: 0px;
-	background: #21d192;
+	background: url("https://www.toptal.com/designers/subtlepatterns/patterns/concrete-texture.png");
 
 }
 
@@ -86,3 +90,7 @@ a {
 #jumbo-logo {
 	height: 200px;
 }
+
+
+
+
