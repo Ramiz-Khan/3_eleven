@@ -1,0 +1,88 @@
+body {
+	background: #f3f3f3;
+	width: 100%
+}
+
+header {
+}
+
+h1 {
+	color: #f3f3f3;
+	font-family: 'Roboto Slab', serif;
+}
+
+h2 {
+	color: #f3f3f3;
+	font-family: 'Roboto Slab', serif;
+
+}
+
+h3{
+	font-size: 35px;
+	font-family: 'Dosis', sans-serif;
+}
+
+p {
+	font-family: 'PT Sans Narrow', sans-serif, monospace;
+	font-size: 15px;
+	line-height: 1.5em;
+}
+
+footer {
+	text-align: center;
+}
+
+a {
+	margin-top: 20px;
+}
+
+.social-btn {
+	color: white;
+	margin-top: 5px;
+}
+
+.navbar {
+	margin: 0px;
+		min-height: 90px;
+
+}
+
+.jumbotron {
+	background: #21d192;
+	min-height: 300px;
+	text-align: center;
+}
+
+
+.text-block {
+	padding: 20px;
+	color: white; 
+
+}
+
+.footer-sec {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+#guts {
+	background: #454545;
+	opacity: 20%;
+	min-height: 80px;
+	text-align: center;
+}
+
+#jumbo-container {
+	margin: 0px;
+	background: #21d192;
+
+}
+
+#header-logo {
+	margin-left: 20px;
+	height: 50px;
+}
+
+#jumbo-logo {
+	height: 200px;
+}
